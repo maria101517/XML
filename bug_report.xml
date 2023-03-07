@@ -1,1 +1,16 @@
-
+<BUG_REPORT>
+  <ID>0001</ID>
+  <Summary>При нажатии кнопки Зарегистрироваться ничего не происходит</Summary>
+  <Steps>
+          <1>Открыть главную страницу сайта www.интересно.com</1>
+          <2>Нажать кнопку Зарегистрироваться</2>
+  </Steps>
+  <Actual_result>При нажатии на кнопку ничего не происходит</Actual result>
+  <Еxpected_result>Появляется окно регистрации</Еxpected result>
+  <Priority>Высокий</Priority>
+  <Severity>Blocker</Severity>
+  <Enviroment>
+          <OS>Windows 10 pro</OS>
+          <Browser>Google Chrome 110.0.5481.178 (Официальная сборка), (32 бит)</Browser>
+  </Enviroment>
+</BUG_REPORT>
